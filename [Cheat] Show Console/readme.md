@@ -44,6 +44,8 @@ TextSources.TextSourceRoots.Area.Current.Economy.AddAmount(1010017, 10000)
 Add 20 of every good to resources
 TextSources.TextSourceRoots.Area.Current.Economy.AddAmount(20)
 
+[Cheat] Console
+![console](https://user-images.githubusercontent.com/50437199/163711160-514efafc-ec26-4621-977f-8eeaffbe8027.jpg)
 
 More:
 TextSources.TextSourceRoots.Unlock.ToggleCheatUnlockAll()
