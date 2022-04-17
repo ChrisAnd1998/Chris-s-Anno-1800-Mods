@@ -5,7 +5,7 @@ To close the console enter:
 console.toggleVisibility()
 
 Requires Anno 1800 mod loader :
-xforce/anno1800-mod-loader: The one and only mod loader for Anno 1800, supports loading of unpacked RDA files, XML merging and Python mods. (github.com)
+https://github.com/xforce/anno1800-mod-loader/releases
 
 Commands not working?
 When you copy and paste the commands a weird special character gets added on the end of the command. Remove that character and it will work.
