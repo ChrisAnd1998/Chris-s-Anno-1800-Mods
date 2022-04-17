@@ -1,0 +1,10 @@
+<ModOps>
+    <ModOp Type="add" GUID='2001271' Path="/Values/GUIConfig/KeyBindings">
+        <Item>
+            <DefaultKey>Shift + F4</DefaultKey>
+            <Command>TextSources.TextSourceRoots.Area.Current.Economy.AddAmount(20)</Command>
+            <Text>90001</Text>
+            <Active>Menu;Session;WorldMap;VideoCameraSequence;TextInput;PostcardView;Pause</Active>
+        </Item>
+    </ModOp>
+</ModOps>
