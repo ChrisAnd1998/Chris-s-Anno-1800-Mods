@@ -1,0 +1,10 @@
+<ModOps>
+    <ModOp Type="add" GUID='2001271' Path="/Values/GUIConfig/KeyBindings">
+        <Item>
+            <DefaultKey>Shift + F5</DefaultKey>
+            <Command>TextSources.TextSourceRoots.Cheat.GlobalCheats.ToggleExtendedDebugging(1)</Command>
+            <Text>90001</Text>
+            <Active>Menu;Session;WorldMap;VideoCameraSequence;TextInput;PostcardView;Pause</Active>
+        </Item>
+    </ModOp>
+</ModOps>
