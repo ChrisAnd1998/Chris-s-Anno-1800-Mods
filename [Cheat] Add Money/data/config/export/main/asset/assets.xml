@@ -1,0 +1,10 @@
+<ModOps>
+    <ModOp Type="add" GUID='2001271' Path="/Values/GUIConfig/KeyBindings">
+        <Item>
+            <DefaultKey>Shift + F3</DefaultKey>
+            <Command>TextSources.TextSourceRoots.Area.Current.Economy.AddAmount(1010017, 10000)</Command>
+            <Text>90001</Text>
+            <Active>Menu;Session;WorldMap;VideoCameraSequence;TextInput;PostcardView;Pause</Active>
+        </Item>
+    </ModOp>
+</ModOps>
