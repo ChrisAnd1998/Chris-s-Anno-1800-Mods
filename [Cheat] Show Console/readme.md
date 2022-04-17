@@ -47,6 +47,6 @@ TextSources.TextSourceRoots.Area.Current.Economy.AddAmount(1010017, 10000)
 
 Add 20 of every good to resources  
 TextSources.TextSourceRoots.Area.Current.Economy.AddAmount(20)  
-
-Toggle Electricity
-TextSources.TextSourceRoots.Cheat.GlobalCheats.ToggleElectricity()
+  
+Toggle Electricity  
+TextSources.TextSourceRoots.Cheat.GlobalCheats.ToggleElectricity()  
