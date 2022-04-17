@@ -10,10 +10,6 @@ https://github.com/xforce/anno1800-mod-loader/releases
 Commands not working?  
 When you copy and paste the commands a weird special character gets added on the end of the command. Remove that character and it will work.  
 
-How did I find those commands?  
-Open Anno1800.exe in HxD or any other hex editor and just start searching for like:  
-.TextSourceRoots. or Cheat  
-
 Get item ID's:  
 https://github.com/Miraak7000/AssetViewer/releases
 
