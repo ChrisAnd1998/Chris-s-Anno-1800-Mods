@@ -1,0 +1,1 @@
+console.startScript("addItem.lua")
