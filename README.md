@@ -12,5 +12,9 @@
 [Cheat] Force Upgrade
 ![upgrade](https://user-images.githubusercontent.com/50437199/163711174-094b9895-bd06-49bb-aa90-ee98ea8e0c6b.jpg)
 
+[Cheat] Add Item
+![item](https://user-images.githubusercontent.com/50437199/163830831-ea8f9ae3-a12c-4d7f-8829-5f21704de013.jpg)
+
+
 Requires Anno 1800 mod loader :
 https://github.com/xforce/anno1800-mod-loader/releases
