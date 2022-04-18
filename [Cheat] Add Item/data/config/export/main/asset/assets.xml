@@ -1,0 +1,98 @@
+<ModOps>
+	<ModOp Type="add" GUID='2001271' Path="/Values/GUIConfig/KeyBindings">
+        <Item>
+            <DefaultKey>Shift + 1</DefaultKey>
+            <Command>addItem.getInput(1)</Command>
+            <Text>90001</Text>
+            <Active>Menu;Session;WorldMap;VideoCameraSequence;TextInput;PostcardView;Pause</Active>
+        </Item>
+    </ModOp>
+	<ModOp Type="add" GUID='2001271' Path="/Values/GUIConfig/KeyBindings">
+        <Item>
+            <DefaultKey>Shift + 2</DefaultKey>
+            <Command>addItem.getInput(2)</Command>
+            <Text>90001</Text>
+            <Active>Menu;Session;WorldMap;VideoCameraSequence;TextInput;PostcardView;Pause</Active>
+        </Item>
+    </ModOp>
+	<ModOp Type="add" GUID='2001271' Path="/Values/GUIConfig/KeyBindings">
+        <Item>
+            <DefaultKey>Shift + 3</DefaultKey>
+            <Command>addItem.getInput(3)</Command>
+            <Text>90001</Text>
+            <Active>Menu;Session;WorldMap;VideoCameraSequence;TextInput;PostcardView;Pause</Active>
+        </Item>
+    </ModOp>
+	<ModOp Type="add" GUID='2001271' Path="/Values/GUIConfig/KeyBindings">
+        <Item>
+            <DefaultKey>Shift + 4</DefaultKey>
+            <Command>addItem.getInput(4)</Command>
+            <Text>90001</Text>
+            <Active>Menu;Session;WorldMap;VideoCameraSequence;TextInput;PostcardView;Pause</Active>
+        </Item>
+    </ModOp>
+	<ModOp Type="add" GUID='2001271' Path="/Values/GUIConfig/KeyBindings">
+        <Item>
+            <DefaultKey>Shift + 5</DefaultKey>
+            <Command>addItem.getInput(5)</Command>
+            <Text>90001</Text>
+            <Active>Menu;Session;WorldMap;VideoCameraSequence;TextInput;PostcardView;Pause</Active>
+        </Item>
+    </ModOp>
+	<ModOp Type="add" GUID='2001271' Path="/Values/GUIConfig/KeyBindings">
+        <Item>
+            <DefaultKey>Shift + 6</DefaultKey>
+            <Command>addItem.getInput(6)</Command>
+            <Text>90001</Text>
+            <Active>Menu;Session;WorldMap;VideoCameraSequence;TextInput;PostcardView;Pause</Active>
+        </Item>
+    </ModOp>
+	<ModOp Type="add" GUID='2001271' Path="/Values/GUIConfig/KeyBindings">
+        <Item>
+            <DefaultKey>Shift + 7</DefaultKey>
+            <Command>addItem.getInput(7)</Command>
+            <Text>90001</Text>
+            <Active>Menu;Session;WorldMap;VideoCameraSequence;TextInput;PostcardView;Pause</Active>
+        </Item>
+    </ModOp>
+	<ModOp Type="add" GUID='2001271' Path="/Values/GUIConfig/KeyBindings">
+        <Item>
+            <DefaultKey>Shift + 8</DefaultKey>
+            <Command>addItem.getInput(8)</Command>
+            <Text>90001</Text>
+            <Active>Menu;Session;WorldMap;VideoCameraSequence;TextInput;PostcardView;Pause</Active>
+        </Item>
+    </ModOp>
+	<ModOp Type="add" GUID='2001271' Path="/Values/GUIConfig/KeyBindings">
+        <Item>
+            <DefaultKey>Shift + 9</DefaultKey>
+            <Command>addItem.getInput(9)</Command>
+            <Text>90001</Text>
+            <Active>Menu;Session;WorldMap;VideoCameraSequence;TextInput;PostcardView;Pause</Active>
+        </Item>
+    </ModOp>
+	<ModOp Type="add" GUID='2001271' Path="/Values/GUIConfig/KeyBindings">
+        <Item>
+            <DefaultKey>Shift + 0</DefaultKey>
+            <Command>addItem.getInput(0)</Command>
+            <Text>90001</Text>
+            <Active>Menu;Session;WorldMap;VideoCameraSequence;TextInput;PostcardView;Pause</Active>
+        </Item>
+    </ModOp>
+	<ModOp Type="add" GUID='2001271' Path="/Values/GUIConfig/KeyBindings">
+        <Item>
+            <DefaultKey>Shift + F6</DefaultKey>
+            <Command>addItem.confirmInput()</Command>
+            <Text>90001</Text>
+            <Active>Menu;Session;WorldMap;VideoCameraSequence;TextInput;PostcardView;Pause</Active>
+        </Item>
+    </ModOp>
+	<ModOp Type="add" GUID='2001271' Path="/Values/GUIConfig/KeyBindings">
+        <Item>
+            <DefaultKey>Shift + F7</DefaultKey>
+            <Command>addItem.resetInput()</Command>
+            <Text>90001</Text>
+            <Active>Menu;Session;WorldMap;VideoCameraSequence;TextInput;PostcardView;Pause</Active>
+        </Item>
+    </ModOp>
+</ModOps>
