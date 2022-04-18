@@ -9,6 +9,8 @@ https://github.com/xforce/anno1800-mod-loader/releases
 
 Commands not working?  
 When you copy and paste the commands a weird special character gets added on the end of the command. Remove that character and it will work.  
+![Untitled](https://user-images.githubusercontent.com/50437199/163759601-d80bb7c9-365f-4696-ac7f-9b507f317e83.jpg)  
+
 
 Get item ID's:  
 https://github.com/Miraak7000/AssetViewer/releases
