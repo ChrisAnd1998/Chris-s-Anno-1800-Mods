@@ -1,19 +1,24 @@
 # Chris's Anno 1800 Mods
 
 [Cheat] Console
-![console](https://user-images.githubusercontent.com/50437199/163711160-514efafc-ec26-4621-977f-8eeaffbe8027.jpg)
+![console](https://user-images.githubusercontent.com/50437199/164063255-9b280b7d-1837-4d9a-be84-25d951b7501e.jpg)
+
 
 [Cheat] Add Money
-![money](https://user-images.githubusercontent.com/50437199/163711164-e8ee5140-5174-4590-99e2-94ba9f5c16e0.jpg)
+![money](https://user-images.githubusercontent.com/50437199/164063239-c91b9b41-abcb-482a-b5cc-afcc42a49d8b.jpg)
+
 
 [Cheat] Add Goods
-![goods](https://user-images.githubusercontent.com/50437199/163711166-300fc879-ce81-4977-b9b6-929b0ab3dd01.jpg)
+![goods](https://user-images.githubusercontent.com/50437199/164063313-3da7de2d-353d-4fa4-8be7-655d5b57dda1.jpg)
+
 
 [Cheat] Force Upgrade
-![upgrade](https://user-images.githubusercontent.com/50437199/163711174-094b9895-bd06-49bb-aa90-ee98ea8e0c6b.jpg)
+![upgrade](https://user-images.githubusercontent.com/50437199/164063327-5a745987-9604-4f19-82f0-6bdaeed44089.jpg)
+
 
 [Cheat] Add Item
-![item2](https://user-images.githubusercontent.com/50437199/164049042-cc0d4d23-77a1-456a-99f9-2ae31ad42249.jpg)
+![item](https://user-images.githubusercontent.com/50437199/164063369-7be4a36c-fd9a-4529-9d6f-25ba5b6bb7d3.jpg)
+
 
 
 Requires Anno 1800 mod loader :
