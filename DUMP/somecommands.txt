@@ -1,3 +1,4 @@
+TextSources.TextSourceRoots.Cheat.ToggleInGameDebugCheatPage()
 TextSources.TextSourceRoots.Unlock.ToggleCheatUnlockAll()
 TextSources.TextSourceRoots.Cheat.GlobalCheats.ToggleSuperShipSpeed()
 TextSources.TextSourceRoots.Weather.SetChangeWind()
