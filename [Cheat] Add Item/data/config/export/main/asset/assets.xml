@@ -1,7 +1,7 @@
 <ModOps>
 	<ModOp Type="add" GUID='2001271' Path="/Values/GUIConfig/KeyBindings">
         <Item>
-            <DefaultKey>Alt + 1</DefaultKey>
+            <KeyTypes>Alt;1</KeyTypes>
             <Command>addItem.getInput(1)</Command>
             <HideInOptionMenu>1</HideInOptionMenu>
             <Configurable>0</Configurable>
@@ -9,7 +9,7 @@
     </ModOp>
 	<ModOp Type="add" GUID='2001271' Path="/Values/GUIConfig/KeyBindings">
         <Item>
-            <DefaultKey>Alt + 2</DefaultKey>
+            <KeyTypes>Alt;2</KeyTypes>
             <Command>addItem.getInput(2)</Command>
             <HideInOptionMenu>1</HideInOptionMenu>
             <Configurable>0</Configurable>
@@ -17,7 +17,7 @@
     </ModOp>
 	<ModOp Type="add" GUID='2001271' Path="/Values/GUIConfig/KeyBindings">
         <Item>
-            <DefaultKey>Alt + 3</DefaultKey>
+            <KeyTypes>Alt;3</KeyTypes>
             <Command>addItem.getInput(3)</Command>
             <HideInOptionMenu>1</HideInOptionMenu>
             <Configurable>0</Configurable>
@@ -25,7 +25,7 @@
     </ModOp>
 	<ModOp Type="add" GUID='2001271' Path="/Values/GUIConfig/KeyBindings">
         <Item>
-            <DefaultKey>Alt + 4</DefaultKey>
+            <KeyTypes>Alt;4</KeyTypes>
             <Command>addItem.getInput(4)</Command>
             <HideInOptionMenu>1</HideInOptionMenu>
             <Configurable>0</Configurable>
@@ -33,7 +33,7 @@
     </ModOp>
 	<ModOp Type="add" GUID='2001271' Path="/Values/GUIConfig/KeyBindings">
         <Item>
-            <DefaultKey>Alt + 5</DefaultKey>
+            <KeyTypes>Alt;5</KeyTypes>
             <Command>addItem.getInput(5)</Command>
             <HideInOptionMenu>1</HideInOptionMenu>
             <Configurable>0</Configurable>
@@ -41,7 +41,7 @@
     </ModOp>
 	<ModOp Type="add" GUID='2001271' Path="/Values/GUIConfig/KeyBindings">
         <Item>
-            <DefaultKey>Alt + 6</DefaultKey>
+            <KeyTypes>Alt;6</KeyTypes>
             <Command>addItem.getInput(6)</Command>
             <HideInOptionMenu>1</HideInOptionMenu>
             <Configurable>0</Configurable>
@@ -49,7 +49,7 @@
     </ModOp>
 	<ModOp Type="add" GUID='2001271' Path="/Values/GUIConfig/KeyBindings">
         <Item>
-            <DefaultKey>Alt + 7</DefaultKey>
+            <KeyTypes>Alt;7</KeyTypes>
             <Command>addItem.getInput(7)</Command>
             <HideInOptionMenu>1</HideInOptionMenu>
             <Configurable>0</Configurable>
@@ -57,7 +57,7 @@
     </ModOp>
 	<ModOp Type="add" GUID='2001271' Path="/Values/GUIConfig/KeyBindings">
         <Item>
-            <DefaultKey>Alt + 8</DefaultKey>
+            <KeyTypes>Alt;8</KeyTypes>
             <Command>addItem.getInput(8)</Command>
             <HideInOptionMenu>1</HideInOptionMenu>
             <Configurable>0</Configurable>
@@ -65,7 +65,7 @@
     </ModOp>
 	<ModOp Type="add" GUID='2001271' Path="/Values/GUIConfig/KeyBindings">
         <Item>
-            <DefaultKey>Alt + 9</DefaultKey>
+            <KeyTypes>Alt;9</KeyTypes>
             <Command>addItem.getInput(9)</Command>
             <HideInOptionMenu>1</HideInOptionMenu>
             <Configurable>0</Configurable>
@@ -73,7 +73,7 @@
     </ModOp>
 	<ModOp Type="add" GUID='2001271' Path="/Values/GUIConfig/KeyBindings">
         <Item>
-            <DefaultKey>Alt + 0</DefaultKey>
+            <KeyTypes>Alt;0</KeyTypes>
             <Command>addItem.getInput(0)</Command>
             <HideInOptionMenu>1</HideInOptionMenu>
             <Configurable>0</Configurable>
@@ -81,7 +81,7 @@
     </ModOp>
 	<ModOp Type="add" GUID='2001271' Path="/Values/GUIConfig/KeyBindings">
         <Item>
-            <DefaultKey>Shift + F6</DefaultKey>
+            <KeyTypes>Shift;F6</KeyTypes>
             <Command>addItem.confirmInput()</Command>
             <HideInOptionMenu>0</HideInOptionMenu>
             <Configurable>0</Configurable>
@@ -89,10 +89,55 @@
     </ModOp>
 	<ModOp Type="add" GUID='2001271' Path="/Values/GUIConfig/KeyBindings">
         <Item>
-            <DefaultKey>Shift + F7</DefaultKey>
+            <KeyTypes>Shift;F7</KeyTypes>
             <Command>addItem.resetInput()</Command>
             <HideInOptionMenu>0</HideInOptionMenu>
             <Configurable>0</Configurable>
         </Item>
     </ModOp>
+	<ModOp GUID="130216" Type="addNextSibling">
+		<Asset>
+			<Template>Trigger</Template>
+			<Values>
+				<Standard>
+					<GUID>1440134669</GUID>
+					<Name>Trigger Script Restart</Name>
+				</Standard>
+				<Trigger>
+					<TriggerCondition>
+						<Template>ConditionEvent</Template>
+						<Values>
+							<Condition/>
+							<ConditionEvent>
+								<ConditionEvent>SessionEnter</ConditionEvent>
+							</ConditionEvent>
+						</Values>
+					</TriggerCondition>
+					<TriggerActions>
+						<Item>
+							<TriggerAction>
+								<Template>ActionExecuteScript</Template>
+								<Values>
+									<Action/>
+									<ActionExecuteScript>
+										<ScriptFileName>mods/[Cheat] Add Item/start_script.py</ScriptFileName>
+									</ActionExecuteScript>
+								</Values>
+							</TriggerAction>
+						</Item>
+						<Item>
+							<TriggerAction>
+								<Template>ActionResetTrigger</Template>
+								<Values>
+									<Action/>
+									<ActionResetTrigger/>
+								</Values>
+							</TriggerAction>
+						</Item>
+					</TriggerActions>
+				</Trigger>
+				<TriggerSetup/>
+			</Values>
+		</Asset>
+	</ModOp>
 </ModOps>
