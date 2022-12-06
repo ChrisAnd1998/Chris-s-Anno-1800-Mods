@@ -1,0 +1,47 @@
+<ModOps>
+	<ModOp GUID="130216" Type="addNextSibling">
+		<Asset>
+			<Template>Trigger</Template>
+			<Values>
+				<Standard>
+					<GUID>1440134669</GUID>
+					<Name>Trigger Script Restart</Name>
+				</Standard>
+				<Trigger>
+					<TriggerCondition>
+						<Template>ConditionEvent</Template>
+						<Values>
+							<Condition/>
+							<ConditionEvent>
+								<ConditionEvent>SessionEnter</ConditionEvent>
+							</ConditionEvent>
+						</Values>
+					</TriggerCondition>
+					<TriggerActions>
+						<Item>
+							<TriggerAction>
+								<Template>ActionExecuteScript</Template>
+								<Values>
+									<Action/>
+									<ActionExecuteScript>
+										<ScriptFileName>mods/[Interface] UI Scale 70 percent/start_script.py</ScriptFileName>
+									</ActionExecuteScript>
+								</Values>
+							</TriggerAction>
+						</Item>
+						<Item>
+							<TriggerAction>
+								<Template>ActionResetTrigger</Template>
+								<Values>
+									<Action/>
+									<ActionResetTrigger/>
+								</Values>
+							</TriggerAction>
+						</Item>
+					</TriggerActions>
+				</Trigger>
+				<TriggerSetup/>
+			</Values>
+		</Asset>
+	</ModOp>
+</ModOps>
