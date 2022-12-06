@@ -1,7 +1,7 @@
 <ModOps>
     <ModOp Type="add" GUID='2001271' Path="/Values/GUIConfig/KeyBindings">
         <Item>
-            <DefaultKey>Shift + F1</DefaultKey>
+            <KeyTypes>Shift;F1</KeyTypes>
             <Command>console.toggleVisibility()</Command>
             <Text>90001</Text>
             <Active>Menu;Session;WorldMap;VideoCameraSequence;TextInput;PostcardView;Pause;Console;Debug</Active>
